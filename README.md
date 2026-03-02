@@ -261,11 +261,9 @@ Be ready to explain:
 ---
 
 ## Team Contribution (Fill Before Final Submission)
-- Member 1: Data understanding and EDA
-- Member 2: Preprocessing and feature engineering
-- Member 3: Model development and evaluation
-- Member 4: Streamlit UI, deployment, and documentation
-
+- Saman Iqbal Ansari: Data understanding and EDA
+- Prateek Shukla: Preprocessing and feature engineering, Documentation 
+- Hardik Shreyas: Model development and evaluation, Streamlit UI, deployment, 
 ---
 
 ## Notes
